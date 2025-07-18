@@ -183,7 +183,7 @@ const Portfolio = () => {
       <div className="z-10 text-center max-w-4xl mx-auto px-4">
         <div className="w-32 h-32 mx-auto mb-8 rounded-full bg-gradient-to-r from-purple-400 to-pink-400 p-1">
           <img
-            src="public/ritikkk.jpg"
+            src="/ritikkk.jpg"
             alt="Ritik Kumar"
             className="w-full h-full object-cover rounded-full"
           />
@@ -248,7 +248,7 @@ const Portfolio = () => {
               <div className="absolute inset-0 bg-gradient-to-br from-purple-500/20 to-pink-500/20"></div>
               <div className="absolute inset-0 flex items-center justify-center">
                 <img
-                  src="src/assets/ritikkk.jpg"
+                  src="/ritikkk.jpg"
                   alt="Ritik Kumar"
                   className="w-50 h-50 rounded-md object-cover"
                 />
