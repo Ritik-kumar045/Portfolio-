@@ -4,6 +4,7 @@ import { Sun, Moon } from 'lucide-react';
 
 
 
+
 const Portfolio = () => {
   const [theme, setTheme] = useState('dark');
   const [isScrolled, setIsScrolled] = useState(false);
@@ -182,7 +183,7 @@ const Portfolio = () => {
       <div className="z-10 text-center max-w-4xl mx-auto px-4">
         <div className="w-32 h-32 mx-auto mb-8 rounded-full bg-gradient-to-r from-purple-400 to-pink-400 p-1">
           <img
-            src="src/assets/ritikkk.jpg"
+            src="public/ritikkk.jpg"
             alt="Ritik Kumar"
             className="w-full h-full object-cover rounded-full"
           />
